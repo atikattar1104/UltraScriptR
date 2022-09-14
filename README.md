@@ -4,7 +4,7 @@
 
 # Description:
 
-This is my CS50P final project. My python program creates script files, which are used to implement scripting languages in various operating systems and scripting programs. It is intended for beginners of shell scripting in Windows(Batch scripting, CMD scripting), UNIX/Linux(Bash, Zsh, Default shell i.e. 'sh', etc. ), and many more. But, Can be used by anyone, as desired.
+This is my CS50P final project. My python program creates script files, which are used to implement scripting languages in various operating systems and scripting programs. It is intended for beginners of shell scripting in Windows(Batch scripting, CMD scripting), UNIX/Linux(Bash, Zsh, Default shell i.e. `sh`, etc. ), and many more. But, Can be used by anyone, as desired.
 
 
 # Why the world needs my project?
@@ -28,7 +28,7 @@ Later, I also found that some of my friends see shell scripting as a difficult c
 1) `UltraScriptR.py` is the main file, which should be executed, in order to run the project.
 
 
-2) `Test_UltraScriptR.py` is the file, which contains test functions for the 'project.py' file, which should be executed using pytest.
+2) `Test_UltraScriptR.py` is the file, which contains test functions for the `UltraScriptR.py` file, which should be executed using `pytest`.
 
 
 3) `Requirements.txt` is the file, which contains names of external packages required by the project.
@@ -52,9 +52,9 @@ Later, I also found that some of my friends see shell scripting as a difficult c
 
 ```
 
-1) Generating script file for UNIX/Linux terminal script, ending with '.sh' file extension.
+1) Generating script file for UNIX/Linux terminal script, ending with `.sh` file extension.
 
-2) Adding the standard Bash initial line and first line of script which user provided in main(), in generated file.
+2) Adding the standard Bash initial line and first line of script which user provided in `main()`, in generated file.
 
 ```
 
@@ -62,9 +62,9 @@ Later, I also found that some of my friends see shell scripting as a difficult c
 
 ```
 
-1) Generating script file for Windows Powershell terminal script, ending with '.ps1' file extension.
+1) Generating script file for Windows Powershell terminal script, ending with `.ps1` file extension.
 
-2) Adding the first line of script which user provided in main(), in generated file.
+2) Adding the first line of script which user provided in`main()`, in generated file.
 
 ```
 
@@ -72,9 +72,9 @@ Later, I also found that some of my friends see shell scripting as a difficult c
 
 ```
 
-1) Generating script file for Windows Command Prompt batch script, ending with '.bat' file extension.
+1) Generating script file for Windows Command Prompt batch script, ending with `.bat` file extension.
 
-2) Adding the first line of script which user provided in main(), in generated file.
+2) Adding the first line of script which user provided in `main()`, in generated file.
 
 ```
 
@@ -82,9 +82,9 @@ Later, I also found that some of my friends see shell scripting as a difficult c
 
 ```
 
-1) Generating script file for Wimdows Command Prompt CMD script, ending with '.cmd' file extension.
+1) Generating script file for Wimdows Command Prompt CMD script, ending with `.cmd` file extension.
 
-2) Adding the first line of script which user provided in main(), in generated file.
+2) Adding the first line of script which user provided in `main()`, in generated file.
 
 ```
 
@@ -105,7 +105,7 @@ Later, I also found that some of my friends see shell scripting as a difficult c
 
 ```
 
-Calling test functions to test the functions from 'project.py' file.
+Calling test functions to test the functions from `UltraScriptR.py` file.
 
 ```
 
@@ -113,7 +113,7 @@ Calling test functions to test the functions from 'project.py' file.
 
 ```
 
-Testing 'unix()' function of 'project.py' file, using 'assert' keyword.
+Testing `unix()` function of `UltraScriptR.py` file, using `assert` keyword.
 
 ```
 
@@ -121,7 +121,7 @@ Testing 'unix()' function of 'project.py' file, using 'assert' keyword.
 
 ```
 
-Testing 'powershell()' function of 'project.py' file, using 'assert' keyword.
+Testing `powershell()` function of `UltraScriptR.py` file, using `assert` keyword.
 
 ```
 
@@ -129,7 +129,7 @@ Testing 'powershell()' function of 'project.py' file, using 'assert' keyword.
 
 ```
 
-Testing 'batch()' function of 'project.py' file, using 'assert' keyword.
+Testing `batch()` function of `UltraScriptR.py` file, using `assert` keyword.
 
 ```
 
@@ -137,7 +137,7 @@ Testing 'batch()' function of 'project.py' file, using 'assert' keyword.
 
 ```
 
-Testing 'cmd()' function of 'project.py' file, using 'assert' keyword.
+Testing `cmd()` function of `UltraScriptR.py` file, using `assert` keyword.
 
 ```
 
@@ -145,7 +145,7 @@ Testing 'cmd()' function of 'project.py' file, using 'assert' keyword.
 
 ```
 
-Testing 'append()' function of 'project.py' file, using 'assert' keyword.
+Testing `append()` function of `UltraScriptR.py` file, using `assert` keyword.
 
 ```
 
