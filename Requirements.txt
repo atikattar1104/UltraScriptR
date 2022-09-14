@@ -1,0 +1,4 @@
+'os.path': Used for checking if a file exists or not. comes built-in python.
+
+'pytest': Used for testing functions of 'project.py' file.
+
