@@ -1,7 +1,7 @@
 from os.path import exists
 
 def main():
-     print("\n Welcome to Script File Generator\n")
+     print("\n Welcome to UltraScriptR\n")
      print(" Select your option\n")
      print(" 1. Create UNIX/Linux shell script file")
      print(" 2. Create Powershell script file")
