@@ -149,3 +149,12 @@ Testing `append()` function of `UltraScriptR.py` file, using `assert` keyword.
 
 ```
 
+# Special Thanks To :- 
+
+1) Internet Communities, Their Members, And Guides, Who Helped Me A Lot In Completing This Project.
+
+2) CS50, For Teaching Me And Certifying Me In Professional Python Language.
+
+3) And To Everyone Who Helped Me In This Project.
+
+> `Thanks`
