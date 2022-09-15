@@ -1,8 +1,8 @@
-from project import unix
-from project import powershell
-from project import batch
-from project import cmd
-from project import append
+from UltraScriptR import unix
+from UltraScriptR import powershell
+from UltraScriptR import batch
+from UltraScriptR import cmd
+from UltraScriptR import append
 
 def main():
      test_unix()
